@@ -2,7 +2,7 @@ basic-behat-3-setup
 ===================
 
 Combination of [Behat 3.*](https://github.com/Behat/Behat) with [Mink](https://github.com/Behat/Mink) ready for use for easier web application testing.
-Packages includes also [Behatch](https://github.com/sanpii/behatch-contexts) which provides extra, ready to use features (enough to write tests without coding).
+Packages include also [Behatch](https://github.com/sanpii/behatch-contexts) which provides extra, ready to use features (enough to write tests without coding).
 
 # Installation
 
