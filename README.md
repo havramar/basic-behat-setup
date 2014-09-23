@@ -17,7 +17,7 @@ $ vendor/bin/behat
 Download selenium2 server ([http://seleniumhq.org/download/](http://seleniumhq.org/download/)) and start it:
 
 ```
-$ java -jar selenium-server-standalone-2.24.1.jar
+$ java -jar selenium-server-standalone-2.43.1.jar
 ```
 
 # Examples
