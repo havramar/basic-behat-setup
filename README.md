@@ -60,7 +60,7 @@ Feature: Functional testing without JS
 
 # Ready to use features
 
-Hidden json, rest, systme, table, xml extensions. Uncomment them in [behat.yml](behat.yml) to get full list.
+Hidden json, rest, systme, table, xml contexts. Uncomment them in [behat.yml](behat.yml) to get full list.
 
 ```
 $ vendor/bin/behat -dl
