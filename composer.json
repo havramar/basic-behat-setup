@@ -1,0 +1,17 @@
+{
+    "name": "havramar/basic-behat-3-setup",
+    "description": "Combination of Behat 3.* with Mink ready for use for easier web application testing.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Hawraniak",
+            "email": "marcin.hawraniak@gmail.com"
+        }
+    ],
+    "require": {
+        "sanpi/behatch-contexts": "dev-master",
+        "behat/mink-goutte-driver": "*",
+        "behat/mink-selenium2-driver": "*"
+    }
+}
