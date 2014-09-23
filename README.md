@@ -7,8 +7,8 @@ Packages includes also [Behatch](https://github.com/sanpii/behatch-contexts) whi
 # Installation
 
 ```
-$ git clone https://github.com/havramar/basic-behat-3-setup
-$ cd basic-behat-3-setup
+$ git clone https://github.com/havramar/basic-behat-setup
+$ cd basic-behat-setup
 $ curl -s http://getcomposer.org/installer | php
 $ php composer.phar install
 $ vendor/bin/behat
