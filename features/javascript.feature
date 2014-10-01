@@ -9,4 +9,4 @@ Feature: Functional testing with JS
     When I fill in "p" with "testing"
     When I press "search-submit"
     Then I should see "Get the latest updates on testing"
-    Then I save a screenshot in yahoo.png
+    Then I save a screenshot in "yahoo.png"
