@@ -1,4 +1,4 @@
-basic-behat-3-setup
+basic-behat-setup
 ===================
 
 Combination of [Behat 3.*](https://github.com/Behat/Behat) with [Mink](https://github.com/Behat/Mink) ready for use for easier web application testing.
