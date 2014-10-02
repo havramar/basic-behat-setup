@@ -20,6 +20,12 @@ Download selenium2 server ([http://seleniumhq.org/download/](http://seleniumhq.o
 $ java -jar selenium-server-standalone-2.43.1.jar
 ```
 
+Update `behat.yml` to your needs. Use command below to see all available options:
+
+```
+$ vendor/bin/behat --config-reference
+```
+
 # Examples
 
 ## Testing with javascript required
